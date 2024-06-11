@@ -6,9 +6,10 @@ Foro Hub es un proyecto de desafío para crear una API con la ruta 'topicos' que
 
 ## Requisitos
 
-- Java 8 o superior
-- Maven 3.6.0 o superior
-- MySQL 5.7 o superior
+- Java JDK: versión 17 o superior
+- Maven: versión 4 o superior
+- Spring: versión 3.2.3 - Spring Initializr
+- PostgreSQL: versión 16 o superior
 
 ## Dependencias
 
@@ -18,7 +19,7 @@ Este proyecto utiliza las siguientes dependencias:
 - Spring Data JPA
 - Spring Security
 - Spring Web
-- MySQL Connector Java
+- PostgreSQL Connector Java
 
 ## Instalación
 
